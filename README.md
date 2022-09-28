@@ -1,4 +1,4 @@
-I’m @kerochelo.
-web app developer
+I’m @kerochelo.  
+web app developer  
 lecturer in RUNTEQ
 

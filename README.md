@@ -2,7 +2,7 @@
 I’m @kerochelo, engaged with Zapath Company, Web engineer for new business ventures.
 
 ### ⚽ my skills
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,go,py,ts,nodejs,react,nextjs,vue,nuxtjs,prisma,linux,aws,ansible,github,kubernetes,docker,vim,neovim&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,go,rust,py,ts,nodejs,react,nextjs,vue,nuxtjs,prisma,linux,aws,ansible,github,kubernetes,docker,vim,neovim&perline=10)](https://skillicons.dev)
 
 ## 📈 Status
 <p align="left"> 
